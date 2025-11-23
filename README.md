@@ -126,7 +126,8 @@ The core logic is written inside the notebook
 
 ## 🏆 Best Performing Model
 
-**\[INSERT BEST MODEL NAME\]**\
+**\[ Custom CNN\]**\
+Custom CNN    0.8825
 Chosen based on the highest overall Accuracy and ROC-AUC.
 
 ------------------------------------------------------------------------
